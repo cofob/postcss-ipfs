@@ -1,0 +1,31 @@
+{
+  "name": "postcss-ipfs",
+  "version": "0.1.0",
+  "author": "Egor Ternovoy <egor@cofob.ru>",
+  "license": "MIT",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "ipfs"
+  ],
+  "main": "index.js",
+  "homepage": "https://git.frsqr.xyz/firesquare/postcss-ipfs",
+  "description": "PostCSS plugin for replacing ipfs strings.",
+  "bugs": {
+    "url": "https://git.frsqr.xyz/firesquare/postcss-ipfs/issues"
+  },
+  "engines": {
+    "node": "^12 || ^14 || >=16"
+  },
+  "peerDependencies": {
+    "postcss": "^8.4"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.frsqr.xyz/firesquare/postcss-ipfs.git"
+  }
+}
